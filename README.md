@@ -1,61 +1,85 @@
-# Hi there, I'm Arpit 👋
+# 👋 Hi, I'm Arpit Kumar Thakur
 
-🎓 **B.Tech CSE (AI & ML) Student | Aspiring Software Developer**
+### 💻 B.Tech CSE (AI & ML) Student | Aspiring Software Developer 🚀
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile!
 
-I'm a first-year B.Tech student specializing in **Computer Science and Engineering (Artificial Intelligence & Machine Learning)**. I'm at the beginning of my coding journey, starting with **C programming** and building my knowledge one step at a time.
+I'm a fresher pursuing **B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning)**. I'm beginning my coding journey with **C programming**, building my fundamentals, improving my problem-solving skills, and learning by creating practical projects.
 
-I believe in learning by doing, practicing consistently, and improving every day. This profile is where I'll document my progress, share my projects, and grow as a developer.
+I believe in consistency, curiosity, and learning something new every day. This profile is where I share my projects, track my progress, and grow as a developer.
+
+---
 
 ## 🌱 Currently Learning
 
-- 💻 C Programming — fundamentals and problem-solving
-- 🧠 Programming logic and computational thinking
-- 🔢 Data Structures and Algorithms (coming soon)
-- 🤖 Artificial Intelligence & Machine Learning (future goals)
-- 🛠️ Git and GitHub for version control
+- 💻 C Programming Fundamentals
+- 🔢 Variables, Data Types, Operators, and Loops
+- 🧠 Conditional Statements and Functions
+- 📚 Arrays, Pointers, and Problem-Solving
+- 🛠️ Git and GitHub
+- 🤖 Exploring AI & Machine Learning as a future goal
 
-## 🎯 My Goals
-
-- Build a strong foundation in programming.
-- Solve coding problems and improve my logical thinking.
-- Create beginner-friendly projects using C.
-- Learn Data Structures and Algorithms.
-- Explore AI, ML, and software development.
-- Contribute to open-source projects as I gain experience.
-
-## 📂 My Projects
-
-I'm just getting started! Here are some of the projects I plan to build:
-
-- 🔢 Calculator using C
-- 🎯 Number Guessing Game
-- 📝 Quiz Game
-- 🏧 ATM Simulation
-- 🎬 Movie Ticket Booking System
-
-I'll keep updating this section as I complete new projects and learn new skills.
-
-## 🧰 Languages & Tools
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-## 📈 My Learning Philosophy
+## 🚀 My Projects
 
-> Every expert was once a beginner. Every line of code is a step forward.
+### 🎓 [CGPA Calculator Using C](https://github.com/codewitharpitthakur/cgpa-calculator-c)
 
-I'm not here to pretend I know everything. I'm here to learn, experiment, make mistakes, and become better every day. 🌱
+My first C programming project! A beginner-friendly command-line application that calculates a student's CGPA using subject credits and grade points.
 
-## 🤝 Let's Connect
+**Key Features:**
+- 📚 Accepts multiple subjects, credits, and grade points.
+- 🧮 Calculates credit-weighted CGPA.
+- 📊 Displays total credits and final CGPA.
+- ✅ Practices fundamental C programming concepts.
 
-- 💻 GitHub: [codewitharpitthakur](https://github.com/codewitharpitthakur)
+**Concepts Practiced:** Variables, `printf()`, `scanf()`, loops, conditional statements, and arithmetic operations.
 
-Thanks for visiting my profile! ⭐ Feel free to explore my repositories and follow my journey from a beginner to a skilled developer.
+🔗 **[View Repository on GitHub →](https://github.com/codewitharpitthakur/cgpa-calculator-c)**
 
-**Keep learning. Keep building. Keep growing. 🚀**
+---
+
+## 🎯 My Goals
+
+- ✅ Build a strong foundation in C programming.
+- 🚀 Create more beginner-friendly projects.
+- 🧠 Improve logical thinking and problem-solving.
+- 📈 Learn Data Structures and Algorithms.
+- 🤖 Explore Artificial Intelligence and Machine Learning.
+- 🌍 Contribute to open-source projects as I gain experience.
+
+## 📊 My GitHub Journey
+
+I'm just getting started, and every project is a new learning opportunity.
+
+- 🌱 Learning step by step.
+- 💡 Turning concepts into practical projects.
+- 🔨 Improving through practice and experimentation.
+- 📌 Documenting my progress one repository at a time.
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/codewitharpitthakur">
+    <img src="https://img.shields.io/badge/GitHub-codewitharpitthakur-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+</p>
+
+**GitHub:** [@codewitharpitthakur](https://github.com/codewitharpitthakur)
+
+---
+
+### 💬 My Motto
+
+> "Every expert was once a beginner. Keep learning, keep coding, and never stop growing."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my coding journey.
+
+**One project at a time. One step closer to my goals. 🚀**
